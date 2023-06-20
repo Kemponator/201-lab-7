@@ -10,11 +10,11 @@ Layout tables reduce accessibility for visually impaired users: screen readers, 
 
 Tables produce tag soup: As mentioned above, table layouts generally involve more complex markup structures than proper layout techniques. This can result in the code being harder to write, maintain, and debug.
 
-Tables are not automatically responsive: When you use proper layout containers (such as <header>, <section>, <article>, or <div>), their width defaults to 100% of their parent element. Tables on the other hand are sized according to their content by default, so extra measures are needed to get table layout styling to effectively work across a variety of devices.
+Tables are not automatically responsive: When you use proper layout containers (such as `header`, `section`, `article`, or `div`), their width defaults to 100% of their parent element. Tables on the other hand are sized according to their content by default, so extra measures are needed to get table layout styling to effectively work across a variety of devices.
 
-## List and describe 3 different semantic HTML elements used in an HTML <table>.
+## List and describe 3 different semantic HTML elements used in an HTML 'table'
 
-1. <table> is the only semantic element?
+1. `table` is the only semantic element?
 2.
 3.
 
